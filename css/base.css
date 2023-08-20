@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+.white {
+    background-color: white;
+}
+
+.black {
+    background-color: black;
+}
